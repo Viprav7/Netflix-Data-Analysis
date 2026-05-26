@@ -29,9 +29,6 @@ This project analyzes Netflix movies and TV shows using Python.
   ![Genre Chart](images/Screenshot%202026-05-26%20183247.png)
 
 ### Rating distrubtion across 10 genres Heatmaps
-  ![Genre Chart](images/Screenshot%2026-05-26%183247.png)
-
-### Rating distrubtion across 10 genres Heatmaps
   ![Heatmap](images/Screenshot%202026-05-26%20183304.png)
 
 ### Movie Duration Distribution by Rating
