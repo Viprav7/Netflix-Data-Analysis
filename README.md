@@ -19,3 +19,10 @@ This project analyzes Netflix movies and TV shows using Python.
 - Ratings Analysis
 - Heatmaps
 - Trend Analysis
+## Visualizations
+
+### Genre Distribution
+![Genre Chart](images/genre_chart.png)
+
+### Heatmap
+![Heatmap](images/heatmap.png)
