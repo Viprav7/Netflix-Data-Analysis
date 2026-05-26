@@ -25,6 +25,9 @@ This project analyzes Netflix movies and TV shows using Python.
 ### Content added per year
   ![Genre Chart](images/Screenshot%202026-05-26%20184558.png)
 
+### Top 10 genres on netflix
+  ![Genre Chart](images/Screenshot%202026-05-26%20183247.png)
+
 ### Rating distrubtion across 10 genres Heatmaps
   ![Genre Chart](images/Screenshot%2026-05-26%183247.png)
 
@@ -32,7 +35,7 @@ This project analyzes Netflix movies and TV shows using Python.
   ![Heatmap](images/Screenshot%202026-05-26%20183304.png)
 
 ### Movie Duration Distribution by Rating
-  ![Genre Chart](images/Screenshot%2026-05-26%183317.png)
+  ![Genre Chart](images/Screenshot%202026-05-26%20183317.png)
 
 ### Movie Duration Distribution on Netflix
-  ![Genre Chart](images/Screenshot%2026-05-26%183331.png)
+  ![Genre Chart](images/Screenshot%202026-05-26%20183331.png)
