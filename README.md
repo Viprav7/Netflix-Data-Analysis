@@ -15,14 +15,11 @@ This project analyzes Netflix movies and TV shows using Python.
 - Most movies are 90–120 minutes long
 
 ## Visualizations
-- Genre Distribution
-- Ratings Analysis
-- Heatmaps
-- Trend Analysis
+- Content added per year
+- Top 10 genres on netflix
+- rating distrubtion across 10 genres Heatmaps
+- Movie Duration Distribution by Rating
+- Movie Duration Distribution on Netflix
 ## Visualizations
 
-### Genre Distribution
-![Genre Chart](images/genre_chart.png)
-
-### Heatmap
-![Heatmap](images/heatmap.png)
+### Content added per year
