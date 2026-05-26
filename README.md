@@ -17,9 +17,22 @@ This project analyzes Netflix movies and TV shows using Python.
 ## Visualizations
 - Content added per year
 - Top 10 genres on netflix
-- rating distrubtion across 10 genres Heatmaps
+- Rating distrubtion across 10 genres Heatmaps
 - Movie Duration Distribution by Rating
 - Movie Duration Distribution on Netflix
 ## Visualizations
 
 ### Content added per year
+  Screenshot%202026-05-26%20184558.png
+
+### Rating distrubtion across 10 genres Heatmaps
+  Screenshot 2026-05-26 183247.png
+
+### Rating distrubtion across 10 genres Heatmaps
+  Screenshot 2026-05-26 183304.png
+
+### Movie Duration Distribution by Rating
+  Screenshot 2026-05-26 183317.png
+
+### Movie Duration Distribution on Netflix
+  Screenshot 2026-05-26 183331.png
