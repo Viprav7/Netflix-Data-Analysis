@@ -23,7 +23,7 @@ This project analyzes Netflix movies and TV shows using Python.
 ## Visualizations
 
 ### Content added per year
-  Screenshot%202026-05-26%20184558.png
+  ![Genre Chart](images/Screenshot%202026-05-26%20184558.png)
 
 ### Rating distrubtion across 10 genres Heatmaps
   Screenshot 2026-05-26 183247.png
